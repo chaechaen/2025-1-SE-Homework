@@ -1,0 +1,14 @@
+[chaechaen] Tue May 20 01:30:02 2025 +0900 file: 파일 이동 02738fa
+[chaechaen] Tue May 20 01:28:35 2025 +0900 fix: 수정사항 반영 04110e8
+[chaechaen] Tue May 20 01:27:29 2025 +0900 fix: 종료 제외 580da73
+[chaechaen] Tue May 20 01:26:41 2025 +0900 fix: 종료 제외 4f5c031
+[chaechaen] Tue May 20 01:26:23 2025 +0900 fix: usecase description 양식 재수정 c5b308e
+[chaechaen] Tue May 20 01:24:18 2025 +0900 fix: 종료 제외 8a3fba3
+[chaechaen] Mon May 19 02:07:10 2025 +0900 feat: analysis diagram 추가 c3aff12
+[chaechaen] Mon May 19 02:06:53 2025 +0900 feat: communication diagram 추가 2f58822
+[chaechaen] Mon May 19 02:03:56 2025 +0900 fix: use case description 메뉴 입출력 통일 e52783b
+[chaechaen] Mon May 19 02:03:34 2025 +0900 fix: use case diagram에 종료 추가 및 시스템 표시 2477e56
+[chaechaen] Mon May 19 02:03:14 2025 +0900 fix: requirement list에 종료 추가 60145c2
+[chaechaen] Sun May 18 01:17:42 2025 +0900 feat: use case description 추가가 1768230
+[chaechaen] Sun May 18 01:17:31 2025 +0900 feat: use case diagram 추가 6a41c6c
+[chaechaen] Sun May 18 01:17:21 2025 +0900 feat: requirement list 추가 2d898df
